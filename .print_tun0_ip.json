@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "print_tun0_ip",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 45,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "c"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
